@@ -1,0 +1,13 @@
+D:\Programacion\TodoCode\biblioteca\src\main\java\com\mycompany\biblioteca\logica\Libro.java
+D:\Programacion\TodoCode\biblioteca\src\main\java\com\mycompany\biblioteca\persistencia\exceptions\PreexistingEntityException.java
+D:\Programacion\TodoCode\biblioteca\src\main\java\com\mycompany\biblioteca\persistencia\EditorialJpaController.java
+D:\Programacion\TodoCode\biblioteca\src\main\java\com\mycompany\biblioteca\persistencia\LibroJpaController.java
+D:\Programacion\TodoCode\biblioteca\src\main\java\com\mycompany\biblioteca\logica\Autor.java
+D:\Programacion\TodoCode\biblioteca\src\main\java\com\mycompany\biblioteca\persistencia\AutorJpaController.java
+D:\Programacion\TodoCode\biblioteca\src\main\java\com\mycompany\biblioteca\persistencia\exceptions\IllegalOrphanException.java
+D:\Programacion\TodoCode\biblioteca\src\main\java\com\mycompany\biblioteca\logica\ControladoraLogica.java
+D:\Programacion\TodoCode\biblioteca\src\main\java\com\mycompany\biblioteca\igu\pantallaCarga.java
+D:\Programacion\TodoCode\biblioteca\src\main\java\com\mycompany\biblioteca\persistencia\ControladoraPersistencia.java
+D:\Programacion\TodoCode\biblioteca\src\main\java\com\mycompany\biblioteca\Biblioteca.java
+D:\Programacion\TodoCode\biblioteca\src\main\java\com\mycompany\biblioteca\logica\Editorial.java
+D:\Programacion\TodoCode\biblioteca\src\main\java\com\mycompany\biblioteca\persistencia\exceptions\NonexistentEntityException.java

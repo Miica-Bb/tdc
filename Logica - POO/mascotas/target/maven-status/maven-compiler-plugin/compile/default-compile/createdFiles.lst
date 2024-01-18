@@ -1,0 +1,9 @@
+com\mycompany\mascotas\logica\Perro.class
+com\mycompany\mascotas\persistencia\PerroJpaController.class
+com\mycompany\mascotas\logica\Perro_.class
+com\mycompany\mascotas\logica\ControladoraLogica.class
+com\mycompany\mascotas\Mascotas.class
+com\mycompany\mascotas\persistencia\exceptions\NonexistentEntityException.class
+com\mycompany\mascotas\persistencia\exceptions\PreexistingEntityException.class
+com\mycompany\mascotas\persistencia\ControladoraPersistencia.class
+com\mycompany\mascotas\persistencia\exceptions\IllegalOrphanException.class

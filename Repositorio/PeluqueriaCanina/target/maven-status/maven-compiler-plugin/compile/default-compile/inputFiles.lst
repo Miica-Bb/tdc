@@ -1,0 +1,14 @@
+D:\Programacion\TodoCode\PeluqueriaCanina\src\main\java\peluqueriacanina\logica\Duenio.java
+D:\Programacion\TodoCode\PeluqueriaCanina\src\main\java\peluqueriacanina\igu\EditarDatos.java
+D:\Programacion\TodoCode\PeluqueriaCanina\src\main\java\peluqueriacanina\persistencia\ControladoraPersistencia.java
+D:\Programacion\TodoCode\PeluqueriaCanina\src\main\java\peluqueriacanina\persistencia\DuenioJpaController.java
+D:\Programacion\TodoCode\PeluqueriaCanina\src\main\java\peluqueriacanina\igu\VerDatos.java
+D:\Programacion\TodoCode\PeluqueriaCanina\src\main\java\peluqueriacanina\logica\ControladoraLogica.java
+D:\Programacion\TodoCode\PeluqueriaCanina\src\main\java\peluqueriacanina\logica\Mascota.java
+D:\Programacion\TodoCode\PeluqueriaCanina\src\main\java\peluqueriacanina\persistencia\MascotaJpaController.java
+D:\Programacion\TodoCode\PeluqueriaCanina\src\main\java\peluqueriacanina\persistencia\exceptions\IllegalOrphanException.java
+D:\Programacion\TodoCode\PeluqueriaCanina\src\main\java\peluqueriacanina\igu\CargaDatos.java
+D:\Programacion\TodoCode\PeluqueriaCanina\src\main\java\peluqueriacanina\PeluqueriaCanina.java
+D:\Programacion\TodoCode\PeluqueriaCanina\src\main\java\peluqueriacanina\persistencia\exceptions\PreexistingEntityException.java
+D:\Programacion\TodoCode\PeluqueriaCanina\src\main\java\peluqueriacanina\igu\Principal.java
+D:\Programacion\TodoCode\PeluqueriaCanina\src\main\java\peluqueriacanina\persistencia\exceptions\NonexistentEntityException.java
